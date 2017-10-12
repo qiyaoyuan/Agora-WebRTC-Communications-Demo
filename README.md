@@ -7,7 +7,7 @@ Simply click the link above, and put in your AppID
 
 # Agora WebRTC SDK v1.13.0
 
-Agora offers 2 version of the Web SDK, WebRTC and WebAgent. Web apps built with the WebRTC SDK will require a WebRTC capable browser. For more details, please refer to the [SDK Documentation](http://docs.agora.io/en/user_guide/integration/integration_communication_webrtc.html).
+Agora offers 2 version of the Web SDK, WebRTC and WebAgent. Web apps built with the WebRTC SDK will require a WebRTC capable browser. For more details, please refer to the [SDK Documentation](https://document.agora.io/en/1.13/guides/webrtc_video.html).
 
 # AppID
 
